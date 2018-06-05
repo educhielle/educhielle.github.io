@@ -38,6 +38,7 @@ title: Resume
   * Monitor performance & upgrade website by updating content and identifying and evaluating opportunities for improving site security.
   * Maintain & improve back-end organization of data and front-end accessibility for end-users.
   <br /><br />
+  
 ### Research Experience
 
 My projects are focused on solving critical problems in Cyber Security, applications of Machine Learning in interdisciplinary fields, Cloud Computing and Digital Humanities.<br />
