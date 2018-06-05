@@ -98,7 +98,7 @@ My research interest primarily lies in the field of Cyber Security and Machine L
 
 - [**Phish Muzzle: This Fish Won't Bite**](https://search.proquest.com/dissertations/docview/1991498117/DC64C79274A849F7PQ/1?accountid=12768)<br />
   *Rajput P.*<br />
-  Masters Thesis, UCLA<br />
+  Masters Thesis, UCLA<br /><br />
 - [**Box Office Revenue Prediction Using Dual Sentiment Analysis**](http://www.ijmlc.org/vol7/623-L0097.pdf)<br />
   *Rajput P., Sapkal P., Sinha S.*<br />
   International Journal of Machine Learning and Computing, Vol. 7, No. 4, August 2017<br />
