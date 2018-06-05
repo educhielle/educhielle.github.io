@@ -21,6 +21,7 @@ title: Resume
 Scripts, JavaScript, and PHP.
 - **Mark-up Language:** HTML and XML
 <br /><br />
+
 ### Professional Experience
 My professional experiences are focused towards application of my research interests in interdisciplinary fields.
 
