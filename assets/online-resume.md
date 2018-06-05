@@ -13,13 +13,13 @@ title: Resume
   2016 - 2017<br /><br />
 - **BE in Computer Engineering**<br />
   Savitribai Phule Pune University, India<br />
-  2012 - 2016<br /><br />
-
+  2012 - 2016
+<br /><br />
 ### Technical Skills
 - **Programming & Scripting Languages:** Java, Python, C++, Assembly Language (NASM), MySQL, UNIX Shell
 Scripts, JavaScript, and PHP.
-- **Mark-up Language:** HTML and XML<br /><br />
-
+- **Mark-up Language:** HTML and XML
+<br /><br />
 ### Professional Experience
 My professional experiences are focused towards application of my research interests in interdisciplinary fields.
 
@@ -42,7 +42,6 @@ My professional experiences are focused towards application of my research inter
   * Monitor performance & upgrade website by updating content and identifying and evaluating opportunities for improving site security.
   * Maintain & improve back-end organization of data and front-end accessibility for end-users.
   <br /><br />
-  
 ### Research Experience
 My projects are focused on solving critical problems in Cyber Security, applications of Machine Learning in interdisciplinary fields, Cloud Computing and Digital Humanities.
 
@@ -92,7 +91,7 @@ My projects are focused on solving critical problems in Cyber Security, applicat
   * Implemented front-end and back-end for the application.
   * Improved application’s performance by supporting batch download of meta data.
   * Adapted Android’s Material Design to improve the aesthetics and functionality of user interface.
-
+<br /><br />
 ### Publications
 My research interest primarily lies in the field of Cyber Security and Machine Learning.
 
@@ -101,8 +100,8 @@ My research interest primarily lies in the field of Cyber Security and Machine L
   Masters Thesis, UCLA<br /><br />
 - [**Box Office Revenue Prediction Using Dual Sentiment Analysis**](http://www.ijmlc.org/vol7/623-L0097.pdf)<br />
   *Rajput P., Sapkal P., Sinha S.*<br />
-  International Journal of Machine Learning and Computing, Vol. 7, No. 4, August 2017<br />
-
+  International Journal of Machine Learning and Computing, Vol. 7, No. 4, August 2017
+<br /><br />
 ### Awards
 - Gold medallist for Computer Engineering 2012-2016, Savitribai Phule Pune University.
 - 1st Runner-Up, Convene 2016 - 6th Annual National Project Competition in the category of Information Security.
