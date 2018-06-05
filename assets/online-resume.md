@@ -7,13 +7,13 @@ title: Resume
 
 - **PhD in Computer Science**<br />
   New York University, USA<br />
-  2018 - Present<br />
+  2018 - Present<br /><br />
 - **MS in Computer Science**<br />
   University of California Los Angeles, USA<br />
-  2016 - 2017<br />
+  2016 - 2017<br /><br />
 - **BE in Computer Engineering**<br />
   Savitribai Phule Pune University, India<br />
-  2012 - 2016<br />
+  2012 - 2016
 
 ### Technical
 
