@@ -20,24 +20,23 @@ title: Resume
 ### Professional Experience 
 
 - **Research Assistant**, *Center for Cyber Security (NYUAD)*<br />
-    *Abu Dhabi* <P align=right>Dec 2017 - Present</P>
+    *Abu Dhabi, Dec 2017 - Present*
   * Performed process aware security assessment of desalination plants to determine attack entry points.
   * Designed attack vectors while systematically categorizing the attacks and estimated corresponding financial loss.
   * Analyzing JTAG for detecting malwares in Linux based operating systems running on Programmable Logic Controllers (PLCs).
 
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-- 2012: Job title, Company
-
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-- 2011: Job title, Company
-
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-- 2008: Job title, Company
-
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- **Cyber Security Intern**, *Ariento*<br />
+    *Los Angeles, April 2017 - Dec 2017*
+  * Customized and operated network security monitoring infrastructure with Amazon Web Services (AWS).
+  * Performed security assessments and analysis using Security Onion to address client vulnerabilities.
+  * Implemented new rules in OSSEC and Snort to detect suspicious behavior on client machines and networks.
+  * Conducted penetration testing (ethical hacking) on client companies using Kali Linux.
+  
+- **Graduate Student Researcher**, *Cuneiform Digital Library Initiative (UCLA)*<br />
+    *Los Angeles, Sept 2016 - Dec 2017*
+  * Develop digital library of cuneiform tablets to aid in the preservation and study of ancient languages by coordinating with University of Oxford, Max Planck Institute and UCLA.
+  * Monitor performance & upgrade website by updating content and identifying and evaluating opportunities for improving site security.
+  * Maintain & improve back-end organization of data and front-end accessibility for end-users.
 
 ### Projects 
 
