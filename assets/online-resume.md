@@ -40,10 +40,54 @@ title: Resume
 
 ### Research Experience
 
-- [**Phish Armor**](https://github.com/starlordphr/PhishArmor),
+My projects are focused on solving critical problems in Cyber Security, applications of Machine Learning in interdisciplinary fields, Cloud Computing and Digital Humanities.<br />
+
+- [**Phish Armor**](https://github.com/starlordphr/PhishArmor)
   * Proposed and developed a metadata based approach for defending against email spear phishing attack.
   * Extended Levenshtein Distance and MySQL queries for identifying suspicious emails.
   * Optimized the solution by reducing search space using additional MySQL query.
+  
+- [**Automated NFV Deployment**](https://github.com/starlordphr/Automated_NFV_Deployment)
+  * Developed a command line tool to automatically deploy OAI components using OpenStack.
+  * Implemented automated scripts for OAI configuration based on user specified modular SLA files.
+  * Introduced simple interactive functionality to deploy, delete and check status of the spawned VMs.
+  
+- [**Secure Code Analysis**](https://github.com/starlordphr/Secure_Code_Analysis)
+  * Proposed a novel technique to detect violations of secure coding techniques using abstract symbol tree in Java.
+  * Extended Google’s Error Prone to analyse the code for security vulnerabilities during compile time.
+  * Detected vulnerabilities such as weak random number generation and return value ignored in open source projects.
+  
+- [**Location Stream Privacy**](https://github.com/starlordphr)
+  * Studied different neural network configurations for understanding its effect on location stream data.
+  * Applied feed forward neural network for mobility pattern classification on location stream data.
+  * Extended the solution to recurrent neural network for minimizing error to a maximum of 1.
+  
+- [**Application for Preventing Runtime Information Gathering on Android OS**](https://github.com/starlordphr/Defender-RIG-Prevention)
+  * Designed and implemented 3 new Runtime Information Gathering (RIG) attacks targeting Android OS.
+  * Implemented a solution for each RIG attack using behavior - based malicious application detection system.
+  * Optimised the solution by 85% for better performance using multithreading in Java.
+  
+- [**Machine Learning for Cancer Treatment Prediction**](https://github.com/starlordphr/Cancer_Treatment_Prediction)
+  * Proposed a novel technique using clinical data for predicting best treatment option for cancer patients.
+  * Implemented multiple machine learning techniques using TensorFlow and scikit library in Python.
+  * Modified the algorithm to obtain an accuracy of upto 85%.
+  
+- [**Software Development for Personal Cloud File Sync**](https://github.com/cmuthapp/CS219_FileSync)
+  * Implemented automated personal cloud system using Python.
+  * Improved the software to incorporate SSL protocol for secure transfer of data.
+  * Achieved significantly less meta data transfer by using delta based approach.
+  * Shifted from master based architecture to semi-master based approach, where data is transferred peer-to-peer and master is used only for meta data transfer.
+  
+- [**Design and Development of ASCII Transliteration Format (ATF) Parser**](https://github.com/starlordphr/ATF-Checker)
+  * Developed a parser to validate ATF texts using PLY in Python.
+  * Enhanced and adopted the parser for online use by connecting PHP front with Python backend.
+  * Implemented rules for automatically detecting structural and semantic defects in the texts.
+  
+- [**Development of Android Application for CDLI Lab**](https://github.com/starlordphr/CDLI-Android-Application)
+  * Designed and produced detailed specifications for the proposed CDLI Android application.
+  * Implemented front-end and back-end for the application.
+  * Improved application’s performance by supporting batch download of meta data.
+  * Adapted Android’s Material Design to improve the aesthetics and functionality of user interface.
 
 ### Publications
 
