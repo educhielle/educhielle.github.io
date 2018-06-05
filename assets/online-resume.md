@@ -15,11 +15,10 @@ title: Resume
   Savitribai Phule Pune University, India<br />
   2012 - 2016
 
-### Technical
-
-- Advance: Python
-- Intermediate: Java, C++, NASM
-- Basic: JavaScript, HTML5, CSS & PHP
+### Technical Skills
+- **Programming & Scripting Languages:** Java, Python, C++, Assembly Language (NASM), MySQL, UNIX Shell
+Scripts, JavaScript, and PHP.
+- **Mark-up Language:** HTML and XML
 
 ### Professional Experience
 My professional experiences are focused towards application of my research interests in interdisciplinary fields.
