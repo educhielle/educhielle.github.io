@@ -13,7 +13,7 @@ title: Resume
   2016 - 2017<br /><br />
 - **BE in Computer Engineering**<br />
   Savitribai Phule Pune University, India<br />
-  2012 - 2016
+  2012 - 2016<br /><br />
 
 ### Technical Skills
 - **Programming & Scripting Languages:** Java, Python, C++, Assembly Language (NASM), MySQL, UNIX Shell
