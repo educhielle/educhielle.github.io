@@ -2,22 +2,27 @@
 layout: page
 title: Resume
 ---
-### Personal summary
-
-> My research interests are ... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ### Education 
 
-- M.A.     Subject (grade), University name and location
-- B.A.     Subject (grade), University name and location
-- A Level  Subject (grade), University name and location
+- **PhD in Computer Science**
+  New York University, USA
+  2018 - Present
+- **MS in Computer Science**
+  University of California Los Angeles, USA
+  2016 - 2017
+- **BE in Computer Engineering**
+  Savitribai Phule Pune University, India
+  2012 - 2016
 
 ### Technical
 
-- Intermediate: HTML, Python, etc, etc
-- Basic: CSS, Stata, etc, etc
+- Advance: Python
+- Intermediate: Java, C++, NASM
+- Basic: JavaScript, HTML5, CSS & PHP
 
-### Professional Experience 
+### Professional Experience
+My professional experiences are focused towards application of my research interests in interdisciplinary fields.
 
 - **Research Assistant**, *Center for Cyber Security (NYUAD)*<br />
     *Abu Dhabi, Dec 2017 - Present*
@@ -90,48 +95,17 @@ My projects are focused on solving critical problems in Cyber Security, applicat
   * Adapted Android’s Material Design to improve the aesthetics and functionality of user interface.
 
 ### Publications
+My research interest primarily lies in the field of Cyber Security and Machine Learning.
 
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
+- [**Phish Muzzle: This Fish Won't Bite**](https://search.proquest.com/dissertations/docview/1991498117/DC64C79274A849F7PQ/1?accountid=12768)
+  *Rajput P.*
+  Masters Thesis, UCLA
+- [**Box Office Revenue Prediction Using Dual Sentiment Analysis**](http://www.ijmlc.org/vol7/623-L0097.pdf)
+  *Rajput P., Sapkal P., Sinha S.*
+  International Journal of Machine Learning and Computing, Vol. 7, No. 4, August 2017
 
-### Selected presentations
-
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-
-### Memberships and committees
-
-- YYYY: Name of committee/society etc.
-- YYYY: Name of committee/society etc.
-- YYYY: Name of committee/society etc.
-- YYYY: Name of committee/society etc.
-- YYYY: Name of committee/society etc.
-- YYYY: Name of committee/society etc.
-
-### Awards and supporting information
-
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-
-### References
-
-Available on request.
-
-
-
-
+### Awards
+- Gold medallist for Computer Engineering 2012-2016, Savitribai Phule Pune University.
+- 1st Runner-Up, Convene 2016 - 6th Annual National Project Competition in the category of Information Security.
+- 2nd Runner-Up, Impetus & Concepts 2016 - 25th Annual National Project Competition in the category of Network and Information Security.
+- Outstanding Graduating Senior, Awarded by Cognizant Technology Solutions, 2016.
