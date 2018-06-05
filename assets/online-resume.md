@@ -40,7 +40,6 @@ title: Resume
   <br /><br />
   
 ### Research Experience
-
 My projects are focused on solving critical problems in Cyber Security, applications of Machine Learning in interdisciplinary fields, Cloud Computing and Digital Humanities.
 
 - [**Phish Armor**](https://github.com/starlordphr/PhishArmor)
