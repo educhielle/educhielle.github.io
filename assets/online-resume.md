@@ -5,14 +5,14 @@ title: Resume
 
 ### Education 
 
-- **PhD in Computer Science**
-  New York University, USA
+- **PhD in Computer Science**<br />
+  New York University, USA<br />
   2018 - Present
-- **MS in Computer Science**
-  University of California Los Angeles, USA
+- **MS in Computer Science**<br />
+  University of California Los Angeles, USA<br />
   2016 - 2017
-- **BE in Computer Engineering**
-  Savitribai Phule Pune University, India
+- **BE in Computer Engineering**<br />
+  Savitribai Phule Pune University, India<br />
   2012 - 2016
 
 ### Technical
@@ -97,11 +97,11 @@ My projects are focused on solving critical problems in Cyber Security, applicat
 ### Publications
 My research interest primarily lies in the field of Cyber Security and Machine Learning.
 
-- [**Phish Muzzle: This Fish Won't Bite**](https://search.proquest.com/dissertations/docview/1991498117/DC64C79274A849F7PQ/1?accountid=12768)
-  *Rajput P.*
+- [**Phish Muzzle: This Fish Won't Bite**](https://search.proquest.com/dissertations/docview/1991498117/DC64C79274A849F7PQ/1?accountid=12768)<br />
+  *Rajput P.*<br />
   Masters Thesis, UCLA
-- [**Box Office Revenue Prediction Using Dual Sentiment Analysis**](http://www.ijmlc.org/vol7/623-L0097.pdf)
-  *Rajput P., Sapkal P., Sinha S.*
+- [**Box Office Revenue Prediction Using Dual Sentiment Analysis**](http://www.ijmlc.org/vol7/623-L0097.pdf)<br />
+  *Rajput P., Sapkal P., Sinha S.*<br />
   International Journal of Machine Learning and Computing, Vol. 7, No. 4, August 2017
 
 ### Awards
