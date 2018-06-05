@@ -38,23 +38,12 @@ title: Resume
   * Monitor performance & upgrade website by updating content and identifying and evaluating opportunities for improving site security.
   * Maintain & improve back-end organization of data and front-end accessibility for end-users.
 
-### Projects 
+### Research Experience
 
-- 2015: Job title, Company
-
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-- 2012: Job title, Company
-
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-- 2011: Job title, Company
-
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-- 2008: Job title, Company
-
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- [**Phish Armor**](https://github.com/starlordphr/PhishArmor),
+  * Proposed and developed a metadata based approach for defending against email spear phishing attack.
+  * Extended Levenshtein Distance and MySQL queries for identifying suspicious emails.
+  * Optimized the solution by reducing search space using additional MySQL query.
 
 ### Publications
 
