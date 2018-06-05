@@ -23,7 +23,7 @@ description: Personal Homepage
 
 # List of links in the navigation bar
 navbar-links:
-  Research Updates: ""
+  Research<br />Updates: ""
   Bio: "assets/bio"
   Blog: "assets/blog-redirect"
   Publications: "assets/publications"
