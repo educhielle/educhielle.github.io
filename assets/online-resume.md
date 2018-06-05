@@ -18,7 +18,7 @@ title: Resume
 - Basic: CSS, Stata, etc, etc
 
 ### Professional Experience 
-<br />
+
 - **Research Assistant**, *Center for Cyber Security (NYUAD)*<br />
     *Abu Dhabi, Dec 2017 - Present*
   * Performed process aware security assessment of desalination plants to determine attack entry points.
