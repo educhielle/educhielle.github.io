@@ -18,7 +18,7 @@ title: Resume
 ### Technical Skills
 - **Programming & Scripting Languages:** Java, Python, C++, Assembly Language (NASM), MySQL, UNIX Shell
 Scripts, JavaScript, and PHP.
-- **Mark-up Language:** HTML and XML
+- **Mark-up Language:** HTML and XML<br /><br />
 
 ### Professional Experience
 My professional experiences are focused towards application of my research interests in interdisciplinary fields.
