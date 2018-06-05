@@ -5,7 +5,7 @@ title: Resume
 
 ### Education 
 
-- **PhD in Computer Science**<br />
+- **Ph.D. in Computer Science**<br />
   New York University, USA<br />
   2018 - Present<br /><br />
 - **MS in Computer Science**<br />
