@@ -2,15 +2,6 @@
 layout: page
 title: Resume
 ---
-
-#### Professional Experience
- Research Assistant
-*Center for Cyber Security (NYUAD), Abu Dhabi*
-- Performed process aware security assessment of desalination plants to determine attack entry points.
-- Designed attack vectors while systematically categorizing the attacks and estimated corresponding financial loss.
-- Analyzing JTAG for detecting malwares in Linux based operating systems running on Programmable Logic Controllers (PLCs).
-<br /> 
-
 ### Personal summary
 
 > My research interests are ... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
