@@ -26,7 +26,29 @@ title: Resume
 - Intermediate: HTML, Python, etc, etc
 - Basic: CSS, Stata, etc, etc
 
-### Employment 
+### Professional Experience 
+
+- Research Assistant
+  Center for Cyber Security (NYUAD), Abu Dhabi                                  <div style="text-align: right">Dec 2017 - Present</div>
+  * Performed process aware security assessment of desalination plants to determine attack entry points.
+  * Designed attack vectors while systematically categorizing the attacks and estimated corresponding financial loss.
+  * Analyzing JTAG for detecting malwares in Linux based operating systems running on Programmable Logic Controllers (PLCs).
+
+> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+- 2012: Job title, Company
+
+> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+- 2011: Job title, Company
+
+> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+- 2008: Job title, Company
+
+> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+### Projects 
 
 - 2015: Job title, Company
 
@@ -43,8 +65,6 @@ title: Resume
 - 2008: Job title, Company
 
 > In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-\newpage
 
 ### Publications
 
