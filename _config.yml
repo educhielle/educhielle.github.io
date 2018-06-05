@@ -23,9 +23,11 @@ description: Personal Homepage
 
 # List of links in the navigation bar
 navbar-links:
-  Research<br />Updates: ""
+  Home: ""
   Bio: "assets/bio"
-  Blog: "assets/blog-redirect"
+  Blogs: 
+    - Research Updates: ""
+    - Rajput On Security: "assets/blog-redirect"
   Publications: "assets/publications"
   News: "assets/news"
   Resume:
