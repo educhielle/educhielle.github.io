@@ -24,9 +24,10 @@ description: Personal Homepage
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Technical Blog: ""
+  Research Updates: ""
   Rajput On Security: "assets/blog-redirect"
   Publications: "assets/publications"
+  News: "assets/news"
   Resume:
     - Online: "assets/online-resume"
     - PDF: "assets/prashant_resume.pdf"
