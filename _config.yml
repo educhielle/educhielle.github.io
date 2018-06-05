@@ -25,7 +25,7 @@ description: Personal Homepage
 navbar-links:
   Research Updates: ""
   Bio: "assets/bio"
-  Rajput On Security: "assets/blog-redirect"
+  Blog: "assets/blog-redirect"
   Publications: "assets/publications"
   News: "assets/news"
   Resume:
