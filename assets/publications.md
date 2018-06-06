@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-subtitle: Ph.D. Student in the Computer Science Department at NYU.<br />You can also browse my <a href="https://scholar.google.com/citations?user=caIHKwwAAAAJ&hl=en&authuser=2" target="_blank">Google Scholar profile</a>.
+subtitle: Ph.D. Student in the Computer Science Department at NYU.<br />You can also browse my <a href="https://scholar.google.com/citations?user=caIHKwwAAAAJ&hl" target="_blank">Google Scholar profile</a>.
 use-site-title: true
 ---
 
