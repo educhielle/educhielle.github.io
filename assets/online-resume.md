@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-subtitle: Ph.D. Student in the Computer Science Department at NYU.<br />To download a pdf version of my resume, click <a href="prashant_resume.pdf">here</a>.
+subtitle: Ph.D. Student in the Computer Science Department at NYU.<br />To download a pdf version of my resume, click <a href="./assets/prashant_resume.pdf">here</a>.
 use-site-title: true
 ---
 
